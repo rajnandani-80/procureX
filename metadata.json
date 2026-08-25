@@ -1,0 +1,6 @@
+{
+  "name": "ProcureX",
+  "description": "Smart Procurement & Inventory Management ERP SaaS platform for SMEs and enterprises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
